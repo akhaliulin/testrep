@@ -5,6 +5,6 @@ while true ; do
 	echo '-------------'
 	uname -a
 	echo '-------------'
-	lsb_release -v
+	lsb_release -a
 	sleep 5
 done
