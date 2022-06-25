@@ -4,5 +4,6 @@ while true ; do
 	cat /proc/loadavg
 	echo '-----------------------------------------'
 	uname -a
+	echo '-----------------------------------------'
 	sleep 5
 done
